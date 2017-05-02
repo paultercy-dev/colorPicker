@@ -1,0 +1,21 @@
+button 
+{
+  min-width: 3em;
+  min-height: 3em;
+  border-radius: 1.5em;
+}
+
+.red 
+{
+  background-color: red;
+}
+
+.blue 
+{
+  background-color: blue;
+}
+
+.yellow 
+{
+  background-color: yellow;
+}
